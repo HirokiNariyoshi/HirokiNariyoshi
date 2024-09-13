@@ -4,6 +4,7 @@
 - 📫 You can reach me at hnariyos@uwaterloo.ca or on Discord @lemonyjuicey
 - ⚡ Fun fact: I make and collect keyboards!
 - Here are some pictures of my favourite projects over the past couple years:
+
 ![NfcPCB](https://github.com/user-attachments/assets/37cb111a-6c8d-4d1a-890f-3924cb4905db)
 This is a PCB business card with an NFC chip that opens my LinkTree when in contact with phones!
 
