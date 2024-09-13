@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HirokiNariyoshi
 - 👀 I’m interested in PCB design and product design!
-- 🌱 I’m currently learning Electrical Engineering at UWaterloo
+- 🌱 I’m currently studying Electrical Engineering at UWaterloo
 - 📫 You can reach me at hnariyos@uwaterloo.ca or on Discord @lemonyjuicey
 - ⚡ Fun fact: I make and collect keyboards!
 - Here are some pictures of my favourite projects over the past couple years:
