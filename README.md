@@ -12,7 +12,7 @@ This is a PCB business card with an NFC chip that opens my LinkTree when in cont
 Here is a car run on Arduino on a very low budget...
 
 ![RoboticsV5](https://github.com/user-attachments/assets/bc8a4f9a-2745-4bd1-9d77-bfb1badad594)
-And here is my VEX V5 robot that I competed with in 2023!
+And my VEX V5 robot that I competed with in 2023!
 
 <!---
 HirokiNariyoshi/HirokiNariyoshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
