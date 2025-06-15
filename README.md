@@ -1,1 +1,3 @@
-Studying at UWaterloo
+Studying at UWaterloo!
+
+Prev. SWE Intern @ Eon Media AI
