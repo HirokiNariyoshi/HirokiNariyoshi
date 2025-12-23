@@ -1,5 +1,5 @@
 Studying ECE @ UWaterloo!
-- Data Engineering Intern @ Potentia Renewables
-- Prev. SWE Intern @ Eon Media AI
+- Fall 2025: Data Engineering Intern @ Potentia Renewables
+- Winter 2025: SWE Intern @ Eon Media AI
 
 Reach out at hnariyos@uwaterloo.ca 👋
